@@ -17,8 +17,14 @@ This repo is my digital playground. Feel free to peek around, open an issue, or 
 
 Since you are already here, why not check out my blog? Here is the LINK
 
-[jxins'blog](https://jxins.duckdns.org/)
-
+<p align="center">
+  <a href="https://jxins.duckdns.org/" target="_blank">
+    <img
+      alt="jxins' Blog"
+      src="https://img.shields.io/badge/Visit&nbsp;my&nbsp;Blog-📝-orange?style=for-the-badge"
+    />
+  </a>
+</p>
 ---
 
 ## 📚 Table of Contents
