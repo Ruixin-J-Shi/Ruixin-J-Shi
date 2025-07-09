@@ -72,7 +72,7 @@ Always taking photos, sometimes taking videos 🎞
 <p align="left">
   <a href="https://www.linkedin.com/in/ruixin-shi-xins21/" target="_blank"><img alt="LinkedIn" height="28" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="https://x.com/ja_xins" target="_blank"><img alt="X" height="28" src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=twitter"></a>
-  <a href="https://jxins.duckdns.org" target="_blank"><img alt="Blog" height="28" src="https://img.shields.io/badge/Blog-%F0%9F%93%9D-orange?style=for-the-badge"></a>
+  <a href="https://jxins.duckdns.org" target="_blank"><img alt="Blog" height="28" src="https://img.shields.io/badge/Blog-orange?style=for-the-badge"></a>
 </p>
 
 ---
