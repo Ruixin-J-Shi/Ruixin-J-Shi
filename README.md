@@ -15,7 +15,7 @@ I love turning ideas into fast, elegant software—whether that’s an **offline
 
 This repo is my digital playground. Feel free to peek around, open an issue, or just say hi! ☕
 
-(Since you are already here, why not check out my blog? Here is the LINK ↓)
+(Since you are already here, why not check out my blog? Here is the LINK↓)
 
 
 <p align="center">
