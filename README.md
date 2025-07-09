@@ -19,7 +19,7 @@ This repo is my digital playground. Feel free to peek around, open an issue, or 
 
 <p align="center">
   
-  ####Since you are already here, why not check out my blog? Here is the LINK
+##### Since you are already here, why not check out my blog? Here is the LINK
   <a href="https://jxins.duckdns.org/" target="_blank">
     <img
       alt="jxins' Blog"
