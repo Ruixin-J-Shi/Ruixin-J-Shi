@@ -22,10 +22,10 @@ Since you are already here, why not check out my blog? Here is the LINK
 ---
 
 ## 📚 Table of Contents
-- 🔭 [What I’m Currently Working On](#-what-i’m-currently-working-on)
+- 🔭 [What I’m Currently Working On](#-what-im-currently-working-on)
 - 🤝 [Looking to Collaborate On](#-looking-to-collaborate-on)
 - 🌱 [Currently Learning](#-currently-learning)
-- 🙋‍♂️ [Ask Me About](#-ask-me-about)
+- 🙋‍♂️ [Ask Me About](#%EF%B8%8F-ask-me-about)
 - ⚡ [Fun Fact](#-fun-fact)
 - 🌐 [Connect with Me](#-connect-with-me)
 - 💻 [Tech Stack](#-tech-stack)
